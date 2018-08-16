@@ -1,0 +1,13 @@
+baseURL = "http://rationalengineer.co.uk/"
+languageCode = "en-gb"
+title = "The Rational Engineer"
+theme = "hyde-hyde"
+
+[params]
+    themeColor = "theme-base-0a"
+    description = "All things data, automation and cloud"
+    sidebarMenuEnabled = true
+    author = "Ollie Hughes"
+    authorimage = "bird.jpg"
+    navigationNewWindow = true
+    sidebarRecentLimit = 5
