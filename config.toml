@@ -1,6 +1,6 @@
-baseURL = "http://rationalengineer.co.uk/"
+baseURL = "http://dishingupdata.com"
 languageCode = "en-gb"
-title = "The Rational Engineer"
+title = "Dishing Up Data"
 theme = "hyde-hyde"
 
 [params]
