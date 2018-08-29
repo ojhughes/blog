@@ -1,6 +1,6 @@
 baseURL = "http://dishingupdata.com"
 languageCode = "en-gb"
-title = "Dishing Up Data"
+title = "Dishy Data"
 theme = "hyde-hyde"
 
 [params]
